@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python /opt/app/main.py
+python /app/main.py
